@@ -9,6 +9,7 @@
         <PackageLicenseUrl>https://github.com/hiroki19990625/LogAdapter/blob/master/LICENSE</PackageLicenseUrl>
         <RepositoryUrl>https://github.com/hiroki19990625/LogAdapter</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
 </Project>
