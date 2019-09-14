@@ -2,6 +2,13 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
+        <Title>LogAdapter</Title>
+        <Authors>hiroki</Authors>
+        <Copyright>hiroki</Copyright>
+        <PackageProjectUrl>https://github.com/hiroki19990625/LogAdapter</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/hiroki19990625/LogAdapter/blob/master/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/hiroki19990625/LogAdapter</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
     </PropertyGroup>
 
 </Project>
