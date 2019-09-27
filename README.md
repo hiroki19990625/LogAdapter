@@ -1,6 +1,5 @@
-[![Nuget](https://img.shields.io/nuget/v/LogAdapterNet.svg)](https://www.nuget.org/packages/LogAdapterNet/)
-
 # LogAdapter
+[![Nuget](https://img.shields.io/nuget/v/LogAdapterNet.svg)](https://www.nuget.org/packages/LogAdapterNet/)
 
 ## Usage
 
