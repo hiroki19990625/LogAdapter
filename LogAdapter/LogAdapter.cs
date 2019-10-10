@@ -1,8 +1,8 @@
 namespace LogAdapter
 {
-    public class LogAdapter
+    public class LogAdapter : ILogAdaptor
     {
-        ILogger Create()
+        public ILogger Create()
         {
             return new Logger();
         }
